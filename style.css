@@ -61,7 +61,7 @@ main {
   color: var(--dark-grayish-blue);
 }
 
-.card-info h3 {
+.card-info h1 {
   font-size: 1.9rem;
   font-family: var(--fraunces);
   line-height: 2rem;
@@ -121,7 +121,7 @@ button:hover {
 @media (min-width: 760px) {
   .card-product {
     flex-direction: row;
-    max-width: 36rem;
+    max-width: 36.3rem;
   }
 
   .card-image {
